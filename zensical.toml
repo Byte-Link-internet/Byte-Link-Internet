@@ -1,11 +1,11 @@
 [project]
 site_name = "Doce GSR 2026.1"
-site_description = "A new project generated from the default template project."
+site_description = "Documentação estudantil de Gerência e Segurança de Redes de Computadores."
 
-#site_author = "<your name here>"
-#site_url = "https://www.example.com/"
+site_author = "Fulano de Tal"
+site_url = "https://ifrnlab.github.io/doce-gsr/"
 
-repo_url = "https://github.com/portif/doce-gsr"
+repo_url = "https://github.com/ifrnlab/doce-gsr"
 edit_uri = "edit/main/docs/"
 
 copyright = """
@@ -23,6 +23,8 @@ nav = [
   { "Serviços de Rede" = [
       "firewall.md",
       "ldap.md",
+      "ssh.md",
+      "vpn.md",
       "zabbix.md",
     ]
   },
