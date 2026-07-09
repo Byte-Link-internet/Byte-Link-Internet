@@ -3,7 +3,7 @@ site_name = "Doce GSR 2026.1"
 site_description = "Documentação estudantil de Gerência e Segurança de Redes de Computadores."
 
 site_author = "Alysson, José, Luan, Otaniel"
-site_url = "https://byte-link-internet.github.io/Byte-Link-Internet"
+site_url = "https://byte-link-internet.github.io/Byte-Link-Internet/"
 
 repo_url = "https://github.com/Byte-Link-internet/Byte-Link-Internet"
 edit_uri = "edit/main/docs/"
